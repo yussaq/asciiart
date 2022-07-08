@@ -1,4 +1,8 @@
 # ASCCI Art
+## ASCII of text-based art
+
+![asciiart](./ascciart.png)
+
 ## Install App
 
 In the project directory, you can run:
